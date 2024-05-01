@@ -1,6 +1,7 @@
 ### Hi my name is medha 👋
 
 computer engineering @ purdue
+
 i code sometimes
 
 <!--
