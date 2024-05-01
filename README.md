@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Generated ReadMe cards with https://github-profile-summary-cards.vercel.app/demo.html
 -->
 
 
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mintygral&theme=aura)
 ![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintygral&theme=aura)
