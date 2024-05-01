@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintygral&theme=aura)
