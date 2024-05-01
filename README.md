@@ -4,6 +4,7 @@ computer engineering @ purdue
 
 i code sometimes
 
+i'll add more stuff i promise 
 <!--
 **mintygral/mintygral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
