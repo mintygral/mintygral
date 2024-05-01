@@ -18,5 +18,5 @@ Generated ReadMe cards with https://github-profile-summary-cards.vercel.app/demo
 -->
 
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mintygral&theme=aura)
-![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintygral&theme=aura)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mintygral&theme=midnight_purple)
+![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintygral&theme=midnight_purple)
