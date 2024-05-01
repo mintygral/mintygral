@@ -1,10 +1,9 @@
 ### Hi my name is medha 👋
 
-computer engineering @ purdue
-
-i code sometimes
-
-i'll add more stuff i promise 
+- 📚 computer engineering @ purdue
+- ⚡ chip design @ purdue STARS 2024
+- 💻 i code sometimes
+- 🌱 i'll add more stuff i promise 
 <!--
 **mintygral/mintygral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
