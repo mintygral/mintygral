@@ -1,5 +1,8 @@
 ### Hi my name is medha 👋
 
+computer engineering @ purdue
+i code sometimes
+
 <!--
 **mintygral/mintygral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
