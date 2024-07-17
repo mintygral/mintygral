@@ -1,8 +1,10 @@
 ### Hi my name is medha 👋
 
 - 📚 computer engineering @ purdue
-- ⚡ chip design @ purdue STARS 2024
-- 💻 i code sometimes
+- 🌟 chip design @ purdue STARS 2024
+- 💻 projects i am most proud of:
+  - ⚡ RISCV CPU: made for STARS final project
+  - 🏆 DefendHer: self-defense educational website and InnovateHer 2024 hackathon winner
 - 🌱 i'll add more stuff i promise 
 <!--
 **mintygral/mintygral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
