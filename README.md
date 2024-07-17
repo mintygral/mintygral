@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Generated ReadMe cards with https://github-profile-summary-cards.vercel.app/demo.html
--->
-
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mintygral&theme=midnight_purple)
 ![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintygral&theme=midnight_purple)
 ![mintygral's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mintygral&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+-->
