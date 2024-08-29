@@ -3,7 +3,8 @@
 - 📚 computer engineering @ purdue
 - 🌟 chip design @ purdue STARS 2024
 - 💻 projects i am most proud of:
-  - ⚡ RISCV CPU: made for STARS final project
+  - ⚡ RISCV CPU: made for STARS final project ( video below :D )
+  - [![YouTube](http://i.ytimg.com/vi/anySU9C3ncY/hqdefault.jpg)](https://www.youtube.com/watch?v=anySU9C3ncY)
   - 🏆 DefendHer: self-defense educational website and InnovateHer 2024 hackathon winner
 
   
